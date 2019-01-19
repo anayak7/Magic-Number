@@ -5,13 +5,13 @@ Depending on the guess, the text field will tell the user if their guess is corr
 generated number.
 
 
-![Magic-Number/Screen Shot 2019-01-19 at 5.17.43 PM.png] (https://github.com/anayak7/Magic-Number/blob/master/Screen%20Shot%202019-01-19%20at%205.17.43%20PM.png)
+![Magic-Number/Screen Shot 2019-01-19 at 5.17.43 PM.png](https://github.com/anayak7/Magic-Number/blob/master/Screen%20Shot%202019-01-19%20at%205.17.43%20PM.png)
 
 
-![Magic-Number/Screen Shot 2019-01-19 at 5.18.18 PM.png] (https://github.com/anayak7/Magic-Number/blob/master/Screen%20Shot%202019-01-19%20at%205.18.18%20PM.png)
+![Magic-Number/Screen Shot 2019-01-19 at 5.18.18 PM.png](https://github.com/anayak7/Magic-Number/blob/master/Screen%20Shot%202019-01-19%20at%205.18.18%20PM.png)
 
 
-![Magic-Number/Screen Shot 2019-01-19 at 5.18.55 PM.png] (https://github.com/anayak7/Magic-Number/blob/master/Screen%20Shot%202019-01-19%20at%205.18.55%20PM.png)
+![Magic-Number/Screen Shot 2019-01-19 at 5.18.55 PM.png](https://github.com/anayak7/Magic-Number/blob/master/Screen%20Shot%202019-01-19%20at%205.18.55%20PM.png)
       
       
       
